@@ -25,7 +25,7 @@ SECRET_KEY = 'spyss5==$q4jv1yetn@8-!b1ek(4m-eb%bdhhyj&@(=8lw^(z+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
